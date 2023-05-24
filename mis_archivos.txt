@@ -1,0 +1,6 @@
+actividad_congit
+archivo.txt
+Comandos.txt
+mis_archivos.txt
+Nueva_Carpeta
+procesos.txt

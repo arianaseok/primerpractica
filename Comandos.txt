@@ -1,0 +1,13 @@
+$ ls #Visualiza lo que hay presente en el directorio
+$ touch archivo.txt # Crea un nuevo archivo llamado archivo.txt
+$ git init #Inicializo git
+$ git status # Me muestra el estado
+$ git add archivo_nuevo.txt # Cargo el archivo a git
+$ git config user.email "danielafernandezlauraDFL@gmail.com"
+$ git config --global user.name "Daniela Fernandez Laura"
+$ git commit -m "Incorporacion de archivo archivo_nuevo.txt" # Realizo el primer commit
+$ git config --list # Me muestra un listado de los datos cargados
+
+
+$ git add .  # Añade todo
+$ git add [nombre_de_archivo] #cargar un archivo en especifico

@@ -1,0 +1,4 @@
+total 8,0K
+4,0K actividad_congit
+   0 archivo.txt
+4,0K Comandos.txt
